@@ -11,14 +11,14 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #06283d;
+    background-color: #132129;
 }
 
 .container{
     position: relative;
     width: 400px;
     height: 105px;
-    background: #fff;
+    background: linear-gradient(135deg, #00feba, #5b548a);
     padding: 28px 32px;
     overflow: hidden;
     border-radius: 20px;
